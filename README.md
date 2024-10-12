@@ -18,6 +18,7 @@
 ---
 
 🚀 **Check out my portfolio here:**  
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://parthivportfolio.netlify.app/)
 
 ---
